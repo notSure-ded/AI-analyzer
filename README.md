@@ -1,7 +1,7 @@
 PDF Question Paper Extractor
 This project is a Python-based tool designed to analyze PDF documents, specifically educational materials like question papers. It extracts all meaningful content—text, images, questions, options, and answers—and organizes it into a clean, structured, and machine-readable JSON file.
 
-This tool was developed to fulfill the requirements of the AI/Python Intern Assignment.
+
 
 Features
 High-Precision Text Extraction: Extracts text at a granular level to prevent unrelated content from being merged.
